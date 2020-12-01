@@ -1,26 +1,28 @@
-[
-   {
-      "nombre":"Ambiente y Turismo",
-      "color":"424242"
-   },
-   {
-      "nombre":"Humanidades y Artes",
-      "color":"424242"
-   },
-   {
-      "nombre":"Arquitectura, Diseño y Urbanismo",
-      "color":"424242"
-   },
-   {
-      "nombre":"Salud y Actividad Física",
-      "color":"424242"
-   },
-   {
-      "nombre":"Tecnología y Administración",
-      "color":"424242"
-   },
-   {
-      "nombre":"Ciencias Sociales",
-      "color":"424242"
-   }
-]
+{
+   "departamentos":[
+      {
+         "nombre":"Ambiente y Turismo",
+         "color":"424242"
+      },
+      {
+         "nombre":"Humanidades y Artes",
+         "color":"424242"
+      },
+      {
+         "nombre":"Arquitectura, Diseño y Urbanismo",
+         "color":"424242"
+      },
+      {
+         "nombre":"Salud y Actividad Física",
+         "color":"424242"
+      },
+      {
+         "nombre":"Tecnología y Administración",
+         "color":"424242"
+      },
+      {
+         "nombre":"Ciencias Sociales",
+         "color":"424242"
+      }
+   ]
+}
