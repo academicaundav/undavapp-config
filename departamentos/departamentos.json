@@ -2,27 +2,57 @@
    "departamentos":[
       {
          "nombre":"Ambiente y Turismo",
-         "color":"424242"
+         "color":"#772222",
+         "carreras":[
+            "carrera_1",
+            "carrera_2",
+            "carrera_3"
+         ]
       },
       {
          "nombre":"Humanidades y Artes",
-         "color":"424242"
+         "color":"#424242",
+         "carreras":[
+            "carrera_1",
+            "carrera_2",
+            "carrera_3"
+         ]
       },
       {
          "nombre":"Arquitectura, Diseño y Urbanismo",
-         "color":"424242"
+         "color":"#424242",
+         "carreras":[
+            "carrera_1",
+            "carrera_2",
+            "carrera_3"
+         ]
       },
       {
          "nombre":"Salud y Actividad Física",
-         "color":"424242"
+         "color":"#424242",
+         "carreras":[
+            "carrera_1",
+            "carrera_2",
+            "carrera_3"
+         ]
       },
       {
          "nombre":"Tecnología y Administración",
-         "color":"424242"
+         "color":"#424242",
+         "carreras":[
+            "carrera_1",
+            "carrera_2",
+            "carrera_3"
+         ]
       },
       {
          "nombre":"Ciencias Sociales",
-         "color":"424242"
+         "color":"#424242",
+         "carreras":[
+            "carrera_1",
+            "carrera_2",
+            "carrera_3"
+         ]
       }
    ]
 }
