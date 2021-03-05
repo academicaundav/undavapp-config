@@ -1,0 +1,17 @@
+{
+  "optativas" : false,
+  "links" : [
+    {
+      "nombre" : "Nombre 1",
+      "link" : "https://www.google.com"
+    },
+    {
+      "nombre" : "Nombre 2",
+      "link" : "https://www.bing.com"
+    },
+    {
+      "nombre" : "Nombre 3",
+      "link" : "https://www.yahoo.com"
+    }
+  ]
+}
