@@ -1,0 +1,2 @@
+La formación de los auxiliares de la salud constituye una problemática educativa sumamente compleja, en la que se plantea la necesidad de revisar los perfiles y los currículos en los actuales escenarios de los sectores salud y educación.
+La Carrera busca superar un planteo estrictamente técnico, encerrado en variables de índole económico- laboral únicamente, para avanzar hacia una formación integrada en la que la ciencia y la tecnología se insertan en un proyecto educativo que tiene sus raíces en la realidad en la que el hombre es el principal protagonista.

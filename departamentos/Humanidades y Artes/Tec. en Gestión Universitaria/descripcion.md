@@ -1,0 +1,2 @@
+Los objetivos de la carrera son formar Técnicos con conocimientos teóricos y tecnológicos adecuados a fin de colaborar en la gestión de la organización de la universidad.
+También mejorar la posibilidad de inserción laboral en la propia institución y la promoción escalafonaria del personal No Docente, atendiendo a las necesidades específicas de cada área de la propia institución. Una de las metas de la TGU es optimizar la utilización de recursos en el marco del mejoramiento institucional continuo.

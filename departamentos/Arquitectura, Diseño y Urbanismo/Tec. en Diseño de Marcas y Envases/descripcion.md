@@ -1,0 +1,2 @@
+La Tecnicatura se concentra en la problemática de marcas y envases con una fuerte formación en diseño como instrumento estratégico de desarrollo. El objetivo es
+formar profesionales con recorrido académico específico para que comprendan el medio productivo y el entorno cultural -en el que las prácticas profesionales se dan lugar- como un conjunto integrado, interpretando los requerimientos de la industria y elaborando propuestas innovadoras sustentables.

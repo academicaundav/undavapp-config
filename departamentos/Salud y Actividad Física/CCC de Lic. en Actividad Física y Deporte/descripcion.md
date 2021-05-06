@@ -1,0 +1,1 @@
+La Licenciatura está orientada a favorecer la formación de profesionales con capacidades específicas para desempeñarse en la gestión de organizaciones deportivas en situaciones y ámbitos diversos, en el sector público y privado, siendo capaces de conducir equipos de trabajo con liderazgo democrático, basado en el análisis crítico y la toma estratégica de decisiones.
