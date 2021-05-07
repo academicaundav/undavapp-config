@@ -1,4 +1,4 @@
-{
+﻿{
    "departamentos":[
       {
          "nombre":"Ambiente y Turismo",
@@ -6,8 +6,8 @@
          "carreras":[
             "Lic. en Ciencias Ambientales",
             "Lic. en Turismo",
-            "Tec. Univ. en Conservación de la Naturaleza y ANP",
-            "Guía Universitario en Turismo"
+            "Tec. Univ. en ConservaciÃ³n de la Naturaleza y ANP",
+            "GuÃ­a Universitario en Turismo"
          ]
       },
       {
@@ -15,45 +15,45 @@
          "color":"#2699FB",
          "carreras":[
             "Lic. en Artes Audiovisuales",
-            "Lic. en Gestión Cultural",
-            "Tec. en Dirección de Orq. y Coros Infatiles y Juveniles",
-            "Tec. en Gestión Universitaria",
-            "CCC de Lic. Gestión Cultural",
+            "Lic. en GestiÃ³n Cultural",
+            "Tec. en DirecciÃ³n de Orq. y Coros Infatiles y Juveniles",
+            "Tec. en GestiÃ³n Universitaria",
+            "CCC de Lic. GestiÃ³n Cultural",
             "CCC de Lic. en Historia",
-            "CCC de Museología y Repositorios Culturales y Naturales"
+            "CCC de MuseologÃ­a y Repositorios Culturales y Naturales"
          ]
       },
       {
-         "nombre":"Arquitectura, Diseño y Urbanismo",
+         "nombre":"Arquitectura, DiseÃ±o y Urbanismo",
          "color":"#A6398C",
          "carreras":[
             "Arquitectura",
-            "Lic. en Diseño Industrial",
-            "Tec. en Diseño de Marcas y Envases",
-            "CCC de Lic. en Diseño Industrial",
-            "Tec. en Intervención Socio-comunitaria"
+            "Lic. en DiseÃ±o Industrial",
+            "Tec. en DiseÃ±o de Marcas y Envases",
+            "CCC de Lic. en DiseÃ±o Industrial",
+            "Tec. en IntervenciÃ³n Socio-comunitaria"
          ]
       },
       {
-         "nombre":"Salud y Actividad Física",
+         "nombre":"Salud y Actividad FÃ­sica",
          "color":"#ED7601",
          "carreras":[
-            "Lic. en Enfermería",
-            "Lic. en Actividad Física y Deporte",
-            "Tec. Univ. en Prótesis Dental",
-            "CCC de Lic. en Actividad Física y Deporte"
+            "Lic. en EnfermerÃ­a",
+            "Lic. en Actividad FÃ­sica y Deporte",
+            "Tec. Univ. en PrÃ³tesis Dental",
+            "CCC de Lic. en Actividad FÃ­sica y Deporte"
          ]
       },
       {
-         "nombre":"Tecnología y Administración",
+         "nombre":"TecnologÃ­a y AdministraciÃ³n",
          "color":"#E3A300",
          "carreras":[
-            "Economía",
-            "Ingeniería en Informática",
-            "Ingeniería en Materiales",
+            "EconomÃ­a",
+            "IngenierÃ­a en InformÃ¡tica",
+            "IngenierÃ­a en Materiales",
             "Lic. en Gerencia de Empresas",
             "Tec. Univ. en Mantenimiento Industrial del Sector Automotriz",
-            "Tec. Univ. en Seguridad e Higiene de la Industria Mecánico-Automotriz"
+            "Tec. Univ. en Seguridad e Higiene de la Industria MecÃ¡nico-Automotriz"
          ]
       },
       {
@@ -61,8 +61,8 @@
          "color":"#188DA2",
          "carreras":[
             "Lic. en Periodismo",
-            "Abogacía",
-            "Tec. en Política, Gestión y Comunicación",
+            "AbogacÃ­a",
+            "Tec. en PolÃ­tica, GestiÃ³n y ComunicaciÃ³n",
             "CCC de Lic. en Periodismo"
          ]
       }
