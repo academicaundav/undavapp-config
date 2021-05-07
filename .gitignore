@@ -1,0 +1,26 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/notepadpp,libreoffice,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=notepadpp,libreoffice,visualstudiocode
+
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/notepadpp,libreoffice,visualstudiocode
