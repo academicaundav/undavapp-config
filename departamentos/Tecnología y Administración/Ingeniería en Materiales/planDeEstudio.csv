@@ -1,0 +1,60 @@
+Código;Asignatura;Carga Horaria;Cuatrimestre
+1;Análisis Matemático I;128;1
+2;Química;96;1
+3;Informática;32;1
+4;Conformado de Materiales;64;1
+5;Proyecto Tecnológico I;32;1
+6;Trabajo Social Comunitario I;32;1
+7;Física I;128;2
+8;Álgebra y Geometría Analítica;128;2
+9;Sistemas de Representación;64;2
+10;Materiales Metálicos I;64;2
+11;Análisis Matemático II;128;3
+12;Física II;128;3
+13;Materiales Metálicos II;64;3
+14;Proyecto Tecnológico II;32;3
+15;Trabajo Social Comunitario II;32;3
+16;Análisis Numérico y Cálculo Avanzado;48;4
+17;Aceros y Fundiciones;64;4
+18;Mecánica de los materiales;64;4
+19;Termodinámica de los Materiales;48;4
+20;Fenómenos de transporte;32;4
+21;Ingles I;32;4
+22;Ética y Responsabilidad Profesional;32;4
+23;Probabilidad y estadística;48;5
+24;Materiales no metálicos y Compuestos;64;5
+25;Proyectos Tecnológicos III;32;5
+26;Estructura de los materiales;64;5
+27;Degradación de materiales;48;5
+28;Trabajo Social Comunitario III;32;5
+29;Ingles II (técnico);32;5
+30;Propiedades de los Materiales Colados;64;6
+31;Geología y Mineralogía;48;6
+32;Tecnologías de Fabricación;48;6
+33;Electroquímica;48;6
+34;Ensayos No Destructivos;48;6
+35;Taller de tesis;32;6
+36;Economía general;32;6
+37;Introducción a los Biomateriales;32;7
+38;Introducción a los materiales poliméricos;32;7
+39;Siderurgia;32;7
+40;Taller de simulación de materiales;32;7
+41;Legislación;32;7
+42;Trabajo Social Comunitario IV;32;7
+;Optativas;192;7
+43;Tecnología de unión de materiales;32;8
+44;Diseño y Selección de Materiales;48;8
+45;Materiales Cerámicos;48;8
+46;Seguridad, Higiene e Ingeniería Ambiental;32;8
+47;Organización Industrial;32;8
+;Optativas;192;8
+48;Fratomecánica y Análisis de falla;32;9
+49;Materiales especiales;48;9
+50;Materiales Compuestos;48;9
+51;Gestión de Proyectos Tecnológicos;32;9
+;Optativas;192;9
+52;Reciclado y recuperación de materiales;32;10
+53;Disposición final de materiales peligrosos;48;10
+;Optativas;192;10
+54;Trabajo final de Tesis de Grado *;168;10
+55;Práctica Profesional Supervisada **;200;10

@@ -1,0 +1,30 @@
+Código;Asignatura;Carga Horaria;Cuatrimestre
+1;Análisis Matemático I;128;1
+2;Química;96;1
+3;Informática;96;1
+4;Introducción a las Ingenierías de la Información;64;1
+5;Álgebra y Geometría Analítica ;128;2
+6;Física I ;128;2
+7;Algoritmos y Estructura de Datos ;128;2
+8;Inglés Nivel I;32;2
+70;Trabajo Social Comunitario I;32;2
+9;Análisis Matemático II;128;3
+10;Física II ;128;3
+11;Algoritmos y Programación I;96;3
+12;Sistemas de Representación;64;3
+13;Probabilidad y Estadística;96;4
+14;Análisis de Circuitos Eléctricos;128;4
+15;Algoritmos y Programación II;96;4
+16;Sistemas y Tecnología Electrónica;64;4
+71;Trabajo Social Comunitario II ;32;4
+17;Métodos matemáticos de la Ingeniería;64;5
+18;Circuitos y Mediciones Electrónicas;96;5
+19;Arquitectura de Sistemas de Elaboración de Datos I ;64;5
+20;Gestión de Datos;96;5
+21;Programación Orientada a Objeto;128;5
+22;Redes de Computadoras;96;6
+23;Arquitectura de Sistemas de Elaboración de Datos II ;64;6
+24;Sistemas de Control Automático;96;6
+25;Sistemas Operativos;96;6
+26;Inglés Nivel II – Técnico;32;6
+72;Trabajo Social Comunitario III;32;6
