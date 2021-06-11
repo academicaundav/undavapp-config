@@ -3,7 +3,7 @@
   "duracion": "1 año y medio",
   "modalidad": "Presencial",
   "titulo": "Licenciadx en Periodismo",
-  "requisitos": false,
+  "requisitos": true,
   "planDeEstudios": false,
   "contactos": true
 }

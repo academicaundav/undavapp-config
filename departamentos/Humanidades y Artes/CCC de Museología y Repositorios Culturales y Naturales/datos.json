@@ -3,7 +3,7 @@
   "duracion": "2 años",
   "modalidad": "A distancia",
   "titulo": "Licenciado en Museología y Repositorios Culturales y Naturales.",
-  "requisitos": false,
+  "requisitos": true,
   "planDeEstudios": false,
   "contactos": true
 }

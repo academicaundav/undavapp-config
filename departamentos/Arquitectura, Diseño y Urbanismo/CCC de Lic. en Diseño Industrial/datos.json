@@ -3,7 +3,7 @@
   "duracion": "2 años",
   "modalidad": "Presencial",
   "titulo": "Licenciadx en Diseño Industrial",
-  "requisitos": false,
+  "requisitos": true,
   "planDeEstudios": false,
   "contactos": true
 }

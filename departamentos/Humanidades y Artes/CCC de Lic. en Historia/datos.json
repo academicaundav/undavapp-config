@@ -3,7 +3,7 @@
   "duracion": "2 años y medio",
   "modalidad": "Presencial",
   "titulo": "Licenciadx en Historia, con certificado de orientación en Historia Latinoamericana Contemporánea",
-  "requisitos": false,
+  "requisitos": true,
   "planDeEstudios": false,
   "contactos": true
 }
