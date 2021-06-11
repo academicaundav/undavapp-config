@@ -3,7 +3,7 @@
   "duracion": "1 año y medio + TSC + Tesis y trabajo de campo",
   "modalidad": "Presencial",
   "titulo": "Licenciadx en Actividad Física y Deporte",
-  "requisitos": false,
+  "requisitos": true,
   "planDeEstudios": false,
   "contactos": true
 }
