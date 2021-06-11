@@ -1,6 +1,6 @@
 1. Formulario de preinscripción online en PDF.
 
-2.Foto del DNI (frente y dorso).
+2. Foto del DNI (frente y dorso).
 
 3. Plan de estudios de la carrera de la que egresaste. Debe incluir la carga horaria.
 
